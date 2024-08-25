@@ -30,11 +30,11 @@ A bar chart helps us see clearly the percentage of overall sentiments expressed 
 
 Next, I identify the particular topics which are most commonly brought up by the community by using WordVectorizer and Latent Dirichlet allocation. I import the two libraries and run the codes, identifying the following topics:
 
-Topic 1:
+-Topic 1:
 people life things time posts day want probably know person
-Topic 2:
+-Topic 2:
 people going friends know feel life need social say years
-Topic 3:
+-Topic 3:
 feel life love really women people time know way want
 
 ### Evaluation
