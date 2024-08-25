@@ -55,5 +55,7 @@ A different sentiment analysis model such as RoBERTa (Robustly optimized BERT ap
 ## AI Ethics
 Since age is not relevant in identifying and solving the business objective, non-alphabetical characters were removed. Generally speaking, since it's an online forum, most users did not reveal their names nor race. While some indicated they were male or female, there is no discrimination nor any potentially compromising data, therefore ensuring there is data privacy and fairness. 
 
+The codes will be shared and documented in a repository linked below, providing explanation of how the sentiment analysis model works, including its decision-making process and the factors influencing its predictions.
+
 ## Source Codes and Datasets
 Upload your model files and dataset into a GitHub repo and add the link here. 
