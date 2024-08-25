@@ -37,12 +37,18 @@ Next, I identify the particular topics which are most commonly brought up by the
 -Topic 3: feel life love really women people time know way want
 
 ### Evaluation
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+I did a breakdown of each individual post by each user, to determine the probability of each comment being either positive or negative. 
+Some results that returned were surprising, such as 
+"Text: 28M Got my first girlfriend!
+Probabilities: tensor([[0.4604, 0.5396]])"
+
+![image](https://github.com/user-attachments/assets/379ee497-fadf-420c-ac6b-ebcb931c2ab9)
+
+
+The exmaple above tells us that the predictor classifies the sentence "28M Got my first girlfriend!" has a probability of 46.04% to be positive, and a 53.96% of being negative. If we were to personally observe and understand the tone of the sentence including the exclamation mark, it is more than likely a positive comment, but the predictor gives it a higher probability of being negative.
 
 ## Recommendation and Analysis
-Explain the analysis and recommendations
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Another sentiment model could be used, 
 
 ## AI Ethics
 Discuss the potential data science ethics issues (privacy, fairness, accuracy, accountability, transparency) in your project. 
