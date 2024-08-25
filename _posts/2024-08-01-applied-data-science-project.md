@@ -45,7 +45,7 @@ Probabilities: tensor([[0.4604, 0.5396]])"
 ![image](https://github.com/user-attachments/assets/379ee497-fadf-420c-ac6b-ebcb931c2ab9)
 
 
-The exmaple above tells us that the predictor classifies the sentence "28M Got my first girlfriend!" has a probability of 46.04% to be positive, and a 53.96% of being negative. If we were to personally observe and understand the tone of the sentence including the exclamation mark, it is more than likely a positive comment, but the predictor gives it a higher probability of being negative.
+The exmaple above tells us that the predictor classifies the sentence "28M Got my first girlfriend!" has a probability of 46.04% to be positive, and a 53.96% of being negative. If we were to personally observe and understand the tone of the sentence including the nuance and exclamation mark, it is more than likely a positive comment, but the predictor gives it a higher probability of being negative.
 
 ## Recommendation and Analysis
 Given the original intention and nature of the subreddit community, the overall positive sentiment of 60% is really surprising, therefore I should verify the predictions. I can first do so by running through and identifying the ideal number of topics. 
