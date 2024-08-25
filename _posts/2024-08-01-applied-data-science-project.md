@@ -58,4 +58,4 @@ Since age is not relevant in identifying and solving the business objective, non
 The codes will be shared and documented in a repository linked below, providing explanation of how the sentiment analysis model works, including its decision-making process and the factors influencing its predictions.
 
 ## Source Codes and Datasets
-Upload your model files and dataset into a GitHub repo and add the link here. 
+https://github.com/23A863N/ITD214_project
