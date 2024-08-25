@@ -16,8 +16,8 @@ Our primary source of data will be the scrapped data from the subreddit titled r
 ### Data Preparation
 Firstly, I import the libraries, in particular "praw", which is "Python Reddit API Wrapper", a Python package that allows for simple access to Reddit's API. I also import TextBlob, a library in Python for processing textual data. At the same time, I also calculate the polarity scores from the same subreddit.
 
-While I tried to scrap 500 posts using the keyword "better", I was only able to extract 187 posts. this may be a limitation of using a simple free praw code.
-I extract the 187 posts into a csv file titled "foreveralone_sentiment.xlsx"
+While I tried to scrap 500 posts using the keyword "better", I was only able to extract 100 posts. this may be a limitation of using a simple free praw code.
+I extract the 100 posts into a csv file titled "foreveralone_sentiment.xlsx"
 
 Before I proceed with the modelling, I go through the data manually, and identify a list of stop words, which are words that appear commonly but hold little meaning to the sentiments expressed by the community. I remove white space, remove non-alphabetic characters, convert all text to lowercase and remove the list of stop words.
 
