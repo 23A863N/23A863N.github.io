@@ -7,11 +7,9 @@ categories: ITD214
 ## Project Background
 As a member of a support group, we aim to set up an online support system to improve emotional support and provide a sense of community and anonymity to those taking part and seeking help.The online community allows individuals to connect with others experiencing similar challenges and share coping strategies.
 
-By understanding user needs, preferences, and behaviours, we can optimize the platform's content to better meet their expectations. 
-Ultimately, the goal is to create a positive and supportive online environment that fosters a strong sense of community and empowers users to effectively address their challenges. 
+By understanding user needs, preferences, and behaviours, we can optimize the platform's content to better meet their expectations. Ultimately, the goal is to create a positive and supportive online environment that fosters a strong sense of community and empowers users to effectively address their challenges. As a measurement of our goal, we hope to see an increase in positive sentiment expressed by users' post by 20%.
 
-As a measurement of our goal, we hope to see an increase in positive sentiment expressed by users' post by 20%.
-
+In particular, I will be exploring the overall sentiments of the community at large, and try to understand what they are struggling with, which in turn can be a motivating factor.
 
 ## Work Accomplished
 Document your work done to accomplish the outcome
