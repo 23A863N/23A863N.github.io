@@ -1,7 +1,7 @@
 ---
-author: 23A863N
-title: "Applied Data Science Project Documentation"
-categories: ITD214
+Author: 23A863N
+Title: "Applied Data Science Project Documentation"
+Categories: ITD214
 ---
 ## Project Background
 As a member of a support group, we aim to set up an online support system to improve emotional support and provide a sense of community and anonymity to those taking part and seeking help.The online community allows individuals to connect with others experiencing similar challenges and share coping strategies.
@@ -48,12 +48,12 @@ Probabilities: tensor([[0.4604, 0.5396]])"
 The exmaple above tells us that the predictor classifies the sentence "28M Got my first girlfriend!" has a probability of 46.04% to be positive, and a 53.96% of being negative. If we were to personally observe and understand the tone of the sentence including the exclamation mark, it is more than likely a positive comment, but the predictor gives it a higher probability of being negative.
 
 ## Recommendation and Analysis
-Another sentiment model could be used, 
+Since the overall positive sentiment of 60% is really surprising, I should verify the predictions. I can first do so by running through and identifying the ideal number of topics. 
+
+A different sentiment analysis model such as RoBERTa (Robustly optimized BERT approach) should probably be used. Since RoBERTa is an optimized variant of BERT, which has been trained with different hyperparameters and training data, it might perform better on sentiment analysis tasks when fine-tuned.
 
 ## AI Ethics
-Discuss the potential data science ethics issues (privacy, fairness, accuracy, accountability, transparency) in your project. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
 ## Source Codes and Datasets
 Upload your model files and dataset into a GitHub repo and add the link here. 
