@@ -52,7 +52,7 @@ Given the original intention and nature of the subreddit community, the overall 
 
 A different sentiment analysis model such as RoBERTa (Robustly optimized BERT approach) should probably be used. Since RoBERTa is an optimized variant of BERT, which has been trained with different hyperparameters and training data, it might perform better on sentiment analysis tasks when fine-tuned.
 
-The data extracted is also definitely not enough, however this could be due to the limitation of using a free API, which may inherently restrict our data collection. It would be good to have a better API, but this would only be possible for large scale funded projects.
+The data extracted is also definitely not enough, however this could be due to the limitation of using a free API, which may inherently restrict our data collection. There were times when I extracted using data range and keyword but got even less data. It would be good to have a better API, but this would only be possible for large scale funded projects.
 
 ## AI Ethics
 Since age is not relevant in identifying and solving the business objective, non-alphabetical characters were removed. Generally speaking, since it's an online forum, most users did not reveal their names nor race. While some indicated they were male or female, there is no discrimination nor any potentially compromising data, therefore ensuring there is data privacy and fairness. 
