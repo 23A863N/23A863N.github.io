@@ -22,8 +22,11 @@ I extract the 187 posts into a csv file titled "foreveralone_sentiment.xlsx"
 Before I proceed with the modelling, I go through the data manually, and identify a list of stop words, which are words that appear commonly but hold little meaning to the sentiments expressed by the community. I remove white space, remove non-alphabetic characters, convert all text to lowercase and remove the list of stop words.
 
 ### Modelling
-The extracted data includes polarity scores ranging from -0.75 to 0.5525. I classify polarity scores above zero to be positive, zero to be neutral, and scores below zero to be negative sentiment. I plot a histogram first to show the distribution of sentiments from the extracted data. 
+The extracted data includes polarity scores ranging from -0.75 to 0.5525. I classify polarity scores above zero to be positive, zero to be neutral, and scores below zero to be negative sentiment. I plot a histogram first to show the distribution of sentiments from the extracted data. From the histogram, we can see that 64% of the community have a positive sentiment, 30% are negative, and 6% are neutral
 ![Screenshot 2024-08-25 112616](https://github.com/user-attachments/assets/e9696e4e-03f0-4271-a6ac-0b83d1f386ba)
+
+A bar chart helps us see clearly the percentage of overall sentiments expressed by the community. 
+![Screenshot 2024-08-25 113406](https://github.com/user-attachments/assets/868012ed-6462-402a-93b2-061341fcf078)
 
 
 ### Evaluation
