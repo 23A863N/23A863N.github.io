@@ -53,7 +53,7 @@ Given the original intention and nature of the subreddit community, the overall 
 A different sentiment analysis model such as RoBERTa (Robustly optimized BERT approach) should probably be used. Since RoBERTa is an optimized variant of BERT, which has been trained with different hyperparameters and training data, it might perform better on sentiment analysis tasks when fine-tuned.
 
 ## AI Ethics
-
+Since age is not relevant in identifying and solving the business objective, non-alphabetical characters were removed. Generally speaking, since it's an online forum, most users did not reveal their names nor race. While some indicated they were male or female, there is no discrimination nor any potentially compromising data, therefore ensuring there is data privacy and fairness. 
 
 ## Source Codes and Datasets
 Upload your model files and dataset into a GitHub repo and add the link here. 
