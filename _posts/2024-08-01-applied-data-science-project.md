@@ -1,5 +1,4 @@
 ---
-layout: post
 author: 23A863N
 title: "Applied Data Science Project Documentation"
 categories: ITD214
