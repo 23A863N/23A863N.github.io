@@ -12,7 +12,7 @@ By understanding user needs, preferences, and behaviours, we can optimize the pl
 In particular, I will be exploring the overall sentiments of the community at large, and try to understand what they are struggling with, which in turn can be a motivating factor.
 
 ## Work Accomplished
-Document your work done to accomplish the outcome
+Our primary source of data will be the scrapped data from the subreddit titled r/Foreveralone
 
 ### Data Preparation
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
